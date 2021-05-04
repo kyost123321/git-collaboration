@@ -1,0 +1,6 @@
+Aloha,
+
+I'm Man Yin Tam majoring in Computer Science. I'm from Hong Kong.
+This is my last year. I hope that I can learn a lot in this class.
+
+My project idea is to create an application that can compare pricing. like sam's club or costco
